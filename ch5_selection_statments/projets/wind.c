@@ -11,11 +11,11 @@ int main(int argc, char const *argv[])
 
     if (speed < 1)
     {
-        printf("Calm\n")
+        printf("Calm\n");
     }
     else if (speed <= 3)
     {
-        printf("Light air\n")
+        printf("Light air\n");
     }
     else if (speed <= 27)
     {
